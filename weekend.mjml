@@ -1,0 +1,93 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Poppins" href="https://fonts.googleapis.com/css?family=Poppins:700"/>
+        <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway:400,700"/>
+        <mj-font name="Quicksand" href="https://fonts.googleapis.com/css?family=Quicksand:700"/>
+    </mj-head>
+    <mj-body>
+        <!-- Logo -->
+        <mj-section background-color="#FFFFFF">
+            <mj-column>
+                <mj-image width="90px" src="https://i.imgur.com/eeh28rv.png"></mj-image>
+            </mj-column>
+        </mj-section>
+        <!-- Header -->
+        <mj-section padding="0">
+            <mj-column>
+                <mj-image padding="0" src="https://i.imgur.com/4rMoojT.jpg"></mj-image>
+            </mj-column>
+        </mj-section>
+
+        <!-- Main content -->
+        <mj-section padding="0" background-color="#FFFFFF">
+            <mj-column padding-top="35px">
+                <mj-text  font-size="14px" line-height="1.2" font-family="Poppins" color="#FE2469">
+                    <h2 style="text-align: center">A special illustrated card for each occasion</h2>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+        <mj-section background-color="#FFFFFF" padding="0 20px">
+            <mj-column>
+                <mj-image padding="0" width="150px" src="https://i.imgur.com/8MU75rz.jpg"></mj-image>
+                <mj-text padding="20px 0 0 0" font-family="Raleway" font-size="16px" align="center" font-weight="700">
+                    Best Wishes Card
+                </mj-text>
+                <mj-text padding="5px 0 0 0" font-family="Raleway" font-size="20px" align="center" font-weight="400">
+                    $3
+                </mj-text>
+                <mj-button background-color="#FFFFFF" color="#FB874C" href="#" border-radius="0" border-bottom="2px solid #FB874C" font-family="Quicksand" width="100px" inner-padding="8px 0px" padding="20px 0 50px 0" font-size="12px">SHOP NOW</mj-button>
+            </mj-column>
+             <mj-column>
+                <mj-image padding="0" width="150px" src="https://i.imgur.com/NBft2iH.jpg"></mj-image>
+                <mj-text padding="20px 0 0 0" font-family="Raleway" font-size="16px" align="center" font-weight="700">
+                    Easter Card
+                </mj-text>
+                <mj-text padding="5px 0 0 0" font-family="Raleway" font-size="20px" align="center" font-weight="400">
+                    $3
+                </mj-text>
+                <mj-button background-color="#FFFFFF" color="#FB874C" href="#" border-radius="0" border-bottom="2px solid #FB874C" font-family="Quicksand" width="100px" inner-padding="8px 0px" padding="20px 0 50px 0" font-size="12px">SHOP NOW</mj-button>
+            </mj-column>
+             <mj-column>
+                <mj-image padding="0" width="150px" src="https://i.imgur.com/qqy67uM.jpg"></mj-image>
+                <mj-text padding="20px 0 0 0" font-family="Raleway" font-size="16px" align="center" font-weight="700">
+                    X-mas Card
+                </mj-text>
+                <mj-text padding="5px 0 0 0" font-family="Raleway" font-size="20px" align="center" font-weight="400">
+                    $3
+                </mj-text>
+                <mj-button background-color="#FFFFFF" color="#FB874C" href="#" border-radius="0" border-bottom="2px solid #FB874C" font-family="Quicksand" width="100px" inner-padding="8px 0px" padding="20px 0 50px 0" font-size="12px">SHOP NOW</mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!-- Color block -->
+        <mj-section padding="0" background-color="#FE2469">
+            <mj-column padding="30px">
+                <mj-text color="#FFFFFF" font-size="26px" font-family="Poppins" line-height="1.2" align="center">
+                    Check out our complete card catalog!
+                </mj-text>
+                <mj-button background-color="#FE2469" color="#FFFFFF" href="#" border-radius="0" border-bottom="2px solid #FFFFFF" font-family="Quicksand" width="100px" inner-padding="8px 0px"  font-size="12px">VISIT</mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!-- Footer -->
+        <mj-section background-color="#FFFFFF">
+            <mj-column padding="20px 0 20px 0">
+                <mj-social icon-size="24px">
+                    <mj-social-element name="facebook" href="#" background-color="#FB874C" border-radius="5px">
+                    </mj-social-element>
+                    <mj-social-element name="twitter" href="#" background-color="#FB874C" border-radius="5px">
+                    </mj-social-element>
+                    <mj-social-element name="instagram" href="#" background-color="#FB874C" border-radius="5px">
+                    </mj-social-element>
+                </mj-social>
+                <mj-text align="center" color="#000000" padding="0">
+                    <p style="font-size: 12px; font-family: Arial">
+                    Eget gravida torquent neque odio in auctor sodales.
+                    </p>
+                    <p style="font-size: 12px; font-family: Arial">Made by <a style="color: #FB874C; text-decoration: none" href="www.github.com/lu-bru">lu-bru</a>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>

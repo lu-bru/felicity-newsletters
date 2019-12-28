@@ -1,0 +1,80 @@
+<mjml>
+    <mj-head>
+        <mj-font name="Elsie" href="https://fonts.googleapis.com/css?family=Elsie:400,900"/>
+        <mj-font name="Elsie Swash Caps" href="https://fonts.googleapis.com/css?family=Elsie+Swash+Caps:400,900"/>
+        <mj-font name="Raleway" href="https://fonts.googleapis.com/css?family=Raleway"/>
+        <mj-font name="Quicksand" href="https://fonts.googleapis.com/css?family=Quicksand:700"/>
+    </mj-head>
+    <mj-body>
+
+        <!-- Header -->
+        <mj-section background-url="https://i.imgur.com/F3oCdrz.png" background-size="cover" background-repeat="no-repeat">
+            <mj-column padding="0% 0 12% 0">
+                <mj-image width="90px" src="https://i.imgur.com/5UaQtv0.png" padding-bottom="3%"></mj-image>
+                <mj-text align="center" color="#FFFFFF" font-size="55px" font-family="Elsie Swash Caps">Merry Christmas!</mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- First box -->
+        <mj-section padding="0" background-color="#FBFBFB">
+            <mj-column padding="18px">
+                <mj-text align="left" font-size="13px">
+                    <p style="font-size: 22px; font-family: Elsie; color: #B50000">Opening presents</p>
+                    <p style="font-size: 12px; font-family: Raleway; line-height: 2">Lorem ipsum dolor sit amet consectetur adipiscing elit blandit viverra pellentesque vel dui.</p>
+                </mj-text>
+                <mj-button background-color="#FBFBFB" color="#B50000" href="#" border-radius="0" border-bottom="2px solid #B50000" font-family="Quicksand" align="left" text-align="left" width="100px" inner-padding="8px 0px" padding="0 25px 25px 25px" font-size="12px">SEE MORE</mj-button>
+            </mj-column>
+            <mj-column>
+                <mj-image src="https://i.imgur.com/WWlHTRw.png" fluid-on-mobile="true" padding="0" width="325px"> </mj-image>
+            </mj-column>
+        </mj-section>
+
+        <!-- Second box -->
+        <mj-section padding="0" background-color="#FBFBFB" direction="rtl">
+            <mj-column padding="18px" >
+                <mj-text align="left" font-size="13px">
+                    <p style="font-size: 22px; font-family: Elsie; color: #B50000">Greetings</p>
+                    <p style="font-size: 12px; font-family: Raleway; line-height: 2">Donec quis hendrerit dignissim et duis nec, montes ridiculus a ullamcorper convallis metus.</p>
+                </mj-text>
+                <mj-button background-color="#FBFBFB" color="#B50000" href="#" border-radius="0" border-bottom="2px solid #B50000" font-family="Quicksand" align="left" text-align="left" width="100px" inner-padding="8px 0px" padding="0 25px 25px 25px" font-size="12px">SEE MORE</mj-button>
+            </mj-column>
+            <mj-column>
+                <mj-image src="https://i.imgur.com/71GGA1x.png" fluid-on-mobile="true" padding="0" width="325px"> </mj-image>
+            </mj-column>
+        </mj-section>
+
+        <!-- Did you know? -->
+        <mj-section background-color="#B50000">
+            <mj-column width="60%" padding="8px 0 28px 0">
+                <mj-text align="center" color="#FFFFFF" padding="0">
+                    <h2 style="font-size: 32px; font-family: Elsie; font-weight: 900">Did you know?</h2>
+                        <p style="font-size: 14px; font-family: Raleway; line-height: 1.5">
+                        Mus massa magna condimentum quis iaculis blandit sociosqu posuere dictumst netus curae magnis vulputate natoque.
+                        </p>
+                </mj-text>
+                <mj-button background-color="#B50000" color="#FFFFFF" href="#" border-radius="0" border-bottom="2px solid #FFFFFF" font-family="Quicksand" width="100px" inner-padding="8px 0px" font-size="12px">SEE MORE</mj-button>
+            </mj-column>
+        </mj-section>
+
+        <!-- Footer -->
+        <mj-section background-color="#FFFFFF">
+            <mj-column padding="20px 0 20px 0">
+                <mj-social icon-size="24px">
+                    <mj-social-element name="facebook" href="#" background-color="#B50000" border-radius="5px">
+                    </mj-social-element>
+                    <mj-social-element name="twitter" href="#" background-color="#B50000" border-radius="5px">
+                    </mj-social-element>
+                    <mj-social-element name="instagram" href="#" background-color="#B50000" border-radius="5px">
+                    </mj-social-element>
+                </mj-social>
+                <mj-text align="center" color="#000000" padding="0">
+                    <p style="font-size: 12px; font-family: Arial">
+                    Placerati quama vestibulumer aliquet pellentesque.
+                    </p>
+                    <p style="font-size: 12px; font-family: Arial">Made by <a style="color: #B50000; text-decoration: none" href="www.github.com/lu-bru">lu-bru</a>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
